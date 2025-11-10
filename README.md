@@ -13,4 +13,4 @@ Cada pregunta deberá ser respondida en un archivo fuente (.cpp) y un archivo cab
 
 Deberás subir estos archivos directamente a www.gradescope.com o se puede crear un .zip que contenga todos ellos y subirlo.
 
-Revisar PDF adjunto.
+Revisar PDF del repositorio: `pc2.pdf` ACTUALIZADO.
