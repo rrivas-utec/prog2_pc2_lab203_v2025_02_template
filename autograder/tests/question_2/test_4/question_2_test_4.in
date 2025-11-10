@@ -1,0 +1,8 @@
+#input
+    21
+    Miraflores,San Isidro,Barranco,Surco,San Borja,La Molina,Pueblo Libre,Jesus Maria,San Miguel,Magdalena,Callao,San Juan de Lurigancho,Comas,Independencia,Los Olivos,Ate,Villa El Salvador,Chorrillos,Lince,Brena,Surquillo,
+    3
+    Surco,Barranco,Yanahuara,
+#output
+    false
+#endtest

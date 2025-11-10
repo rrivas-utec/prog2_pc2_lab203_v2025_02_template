@@ -1,0 +1,8 @@
+#input
+    19
+    ingeniero,medico,abogado,arquitecto,profesor,enfermero,psicologo,periodista,chef,electricista,carpintero,mecanico,plomero,contadora,fotografo,disenador,programador,policia,biologo,
+    7
+    ingeniero,programador,mecanico,chef,economista,profesor,administrador,
+#output
+    false
+#endtest

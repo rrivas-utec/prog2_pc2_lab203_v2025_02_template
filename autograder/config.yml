@@ -1,0 +1,13 @@
+limit_submissions: -1
+required_files: 
+  - p1.h
+
+  - p2.h
+
+  - p3.h
+
+  - p1.cpp
+
+  - p2.cpp
+
+  - p3.cpp

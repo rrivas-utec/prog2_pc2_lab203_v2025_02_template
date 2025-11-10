@@ -1,0 +1,6 @@
+#input
+    20 manzana,platano,pera,uva,fresa,sandia,melon,kiwi,naranja,mandarina,mango,papaya,pina,durazno,limon,cereza,granada,guayaba,maracuya,tuna,
+    1 kiwi,
+#output
+    true
+#endtest
